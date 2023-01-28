@@ -7,9 +7,8 @@ I also took the liberty of writing tests for each of these hooks, to ensure that
 
 ## USAGE
 
-Fork the Repo
-Clone the Repo
-run `yarn install` - to install all dependencies
-run `yarn start` - to start the deelopment server
-or
-run `yarn test` - to launch the test runner
+- Fork the Repo
+- Clone the Repo
+- run `yarn install` - to install all dependencies
+- run `yarn start` - to start the deelopment server
+- run `yarn test` - to launch the test runner
